@@ -29,7 +29,7 @@ All output is also written to a timestamped log file.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/dns-watchdog.git
+git clone https://github.com/microlaser/dns-watchdog.git
 cd dns-watchdog
 chmod +x dns_watchdog.sh
 ```
